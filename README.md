@@ -4,6 +4,9 @@
 Overview
 This Event Management System is a PHP-powered web application designed to simplify user registration, authentication, and profile management. With a dynamic and interactive interface, it ensures seamless event participation while maintaining security and validation standards.
 
+Overview
+This Event Management System is a PHP-powered web application designed to simplify user registration, authentication, and profile management. With a dynamic and interactive interface, it ensures seamless event participation while maintaining security and validation standards.
+
 Key Features
 1. User Registration
 A simple yet intuitive registration form allows users to sign up with:
@@ -59,6 +62,13 @@ Import the provided database file into MySQL.
 Run the application in a browser via localhost.
 
 This system provides a secure and efficient way for users to register, authenticate, and participate in events while ensuring a smooth user experience.
+
+
+
+
+
+
+
 
 
 
